@@ -3,7 +3,7 @@ Given a stack, delete the middle element of the stack without using any addition
 Middle element:- floor((size_of_stack+1)/2) (1-based indexing) from bottom of the stack.
 */
 
-// Answer :-
+// Answer:-
 
 class Solution {
     public void deleteMid(Stack<Integer> s, int sizeOfStack) {
