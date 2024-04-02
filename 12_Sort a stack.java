@@ -1,4 +1,4 @@
-/* Problem Statement :-
+/* Problem Statement:-
 Given a stack, the task is to sort it such that the top of the stack has the greatest element.
 */
 
