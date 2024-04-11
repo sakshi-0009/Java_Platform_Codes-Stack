@@ -4,7 +4,7 @@ Implement a Queue using an Array. Queries in the Queue are of the following type
 (ii) 2     (a query of this type means to pop element from queue and print the poped element)
 */
 
-// Answer :-
+// Answer:-
 
 class MyQueue {
 
